@@ -1,6 +1,9 @@
+#welcome-text{
+    font-weight: 400;
+}
 td{
     font-weight: bold;
 }
-#welcome-text{
-    font-weight: 400;
+#promo-invalid-alert, #promo-success-alert{
+    display: none;
 }
